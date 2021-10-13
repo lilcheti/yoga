@@ -6,7 +6,7 @@ Yoga class management in multiple languages
 
 2.payment integration
 
-3.full list of classes
+3.full list of classes (user panel)
 
 4.offline videos
 
