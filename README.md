@@ -1,6 +1,7 @@
 Yoga class management in multiple languages
 
 #Features
+
 1.register/login
 2.payment integration
 3.full list of classes
